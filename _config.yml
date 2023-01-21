@@ -21,9 +21,8 @@ author: Christine de Kock
 
 navbar-links:
   Publications & Datasets: "publications"
-  Contact me: "contactme"
   Updates: "updates"
-  CV: cv
+  About me: "aboutme"
 
 ################
 # --- Logo --- #
