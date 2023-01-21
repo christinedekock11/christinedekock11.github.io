@@ -9,5 +9,5 @@ cover-img: "/assets/img/IMG_5777.jpg"
 Hi! My name is Christine. I am a PhD candidate in the NLIP group at Cambridge. 
 I like languages, computational social science, Wikipedia and machine learning. 
 
-Feel free to check out [my CV](christine_cv.pdf] or [get in touch](christinedekock11@gmail.com)! 
+Feel free to check out [my CV](christine_cv.pdf) or [get in touch](christinedekock11@gmail.com)! 
 </center> 
