@@ -1,16 +1,21 @@
 ---
 layout: page
-title: About me
-subtitle: Why you'd want to go on a date with me
+title: Publications and resources
+subtitle: 
 ---
+# Papers: 
 
-My name is Inigo Montoya. I have the following qualities:
+1. De Kock, C., & Vlachos, A. (2021). [I Beg to Differ: A study of constructive disagreement in online conversations.]([https://arxiv.org/abs/2101.10917](https://aclanthology.org/2021.eacl-main.173/)) EACL 2021.
 
-- I rock a great mustache
-- I'm extremely loyal to my family
+2. De Kock, C., & Vlachos, A. (2021). [Survival text regression for time-to-event prediction in conversations.](https://aclanthology.org/2021.findings-acl.104.pdf) Findings of the Association for Computational Linguistics: ACL-IJCNLP 2021.
 
-What else do you need?
+3. De Kock, C., & Vlachos, A. (2022). [Leveraging Wikipedia article evolution for promotional tone detection.](https://aclanthology.org/2022.acl-long.384/) ACL 2022.
 
-### My story
+4. De Kock, C., Stafford, T., & Vlachos, A. (2022). [How to disagree well: Investigating the dispute tactics used on Wikipedia](https://arxiv.org/pdf/2212.08353.pdf) EMNLP 2022.
 
-To be honest, I'm having some trouble remembering right now, so why don't you just watch [my movie](https://en.wikipedia.org/wiki/The_Princess_Bride_%28film%29) and it will answer **all** your questions.
+# Datasets
+1. [WikiDisputes: A dataset of disagreements on Wikipedia Talk pages.](https://github.com/christinedekock11/wikidisputes)
+
+2. [WikiEvolve: A dataset of Wikipedia article snapshots for promotional tone detection.](https://github.com/christinedekock11/wiki-evolve)
+
+3. [WikiTactics: A dataset of Talk page disagreements annotated according to their dispute tactics](https://github.com/christinedekock11/wikitactics)
