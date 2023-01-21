@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Publications and resources
-subtitle: 
+cover-img: "/assets/img/IMG_5695~2.jpeg"
 ---
 # Papers: 
 
