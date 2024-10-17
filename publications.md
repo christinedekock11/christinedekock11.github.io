@@ -22,6 +22,8 @@ cover-img: "/assets/img/IMG_5695~2.jpeg"
 # Datasets
 1. [WikiDisputes](https://github.com/christinedekock11/wikidisputes): A dataset of disagreements on Wikipedia Talk pages.
 
-2. [WikiEvolve](https://github.com/christinedekock11/wiki-evolve): A dataset of Wikipedia article snapshots for promotional tone detection.
+2. [WikiEvolve](https://github.com/christinedekock11/wiki-evolve):Wikipedia article snapshots for promotional tone detection.
 
-3. [WikiTactics](https://github.com/christinedekock11/wikitactics): A dataset of Talk page disagreements annotated according to their dispute tactics.
+3. [WikiTactics](https://github.com/christinedekock11/wikitactics): Wikipedia Talk page disagreements annotated according to their dispute tactics.
+
+4. [LISTN](https://github.com/christinedekock11/listn/tree/main): Manosphere lexicons.
