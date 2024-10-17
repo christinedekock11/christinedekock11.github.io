@@ -13,7 +13,7 @@ cover-img: "/assets/img/IMG_5695~2.jpeg"
 
 4. De Kock, C., Stafford, T., & Vlachos, A. (2022). [How to disagree well: Investigating the dispute tactics used on Wikipedia.](https://arxiv.org/pdf/2212.08353.pdf) EMNLP 2022.
 
-5. De Kock, C., & Hovy, E. (2024). [Investigating radicalisation indicators in online extremist communities.](https://aclanthology.org/2024.woah-1.1.pdf) Workshop for Online Abuse and Harms at NAACL 2024.}
+5. De Kock, C., & Hovy, E. (2024). [Investigating radicalisation indicators in online extremist communities.](https://aclanthology.org/2024.woah-1.1.pdf) Workshop for Online Abuse and Harms at NAACL 2024.
 
 6. De Kock, C. (2024). [Jointly modelling the evolution of community structure and language in online extremist groups.](https://arxiv.org/pdf/arXiv:2409.19243.pdf) Preprint.
 
