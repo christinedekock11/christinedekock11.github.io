@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Publications and resources
-cover-img: "/assets/img/IMG_5695~2.jpeg"
+cover-img: "assets/img/IMG_5763.jpg"
 ---
 # Papers: 
 - De Kock, C. (2024). [LISTN: Lexicon Induction with Socio-Temporal Nuance.](https://arxiv.org/pdf/arXiv:2409.19257.pdf)
