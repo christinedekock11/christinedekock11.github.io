@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Updates and activities
-cover-img: "/assets/img/IMG_5695~2.jpeg"
+cover-img: "/assets/img/IMG_20190428_154310.jpg"
 ---
 # Activities: 
 * **Jan 2025:** I have been awarded the Doreen Thomas Fellowship and the role of assistant professor / lecturer in the NLP group at UniMelb. **I am recruiting PhD students!**
