@@ -15,10 +15,10 @@ cover-img: "/assets/img/IMG_5695~2.jpeg"
   - Our shared task [SemEval 2024 Task 1: Semantic Textual Relatedness](https://github.com/semantic-textual-relatedness/Semantic_Relatedness_SemEval2024) developed datasets in 14 languages and received 70 submissions. We received an honorable mention for the best paper award at SemEval 2024. 
 
 # Supervision
-## PhD
+### PhD
 - [Gisela Vallejo](http://gvallejo.co/) (2021-): A Fair Plan Towards Mitigating Bias and Misinformation
 - [Jemima Kang](https://cis.unimelb.edu.au/people/students/jemima-kang) (2024-): Using NLP to determine semantic drift in mental health discourse
 
-## Masters
+### Masters
 - Luc Raszewski (2024): Detecting sockpuppetry on Wikipedia using meta-learning
 - Archit Aggarwal (2023-2024): Investigating bias in the different language versions of Wikipedia
