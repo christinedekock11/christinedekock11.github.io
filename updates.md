@@ -12,7 +12,7 @@ cover-img: "/assets/img/IMG_5695~2.jpeg"
 * **Aug 2024:** I am co-organising the [9th Workshop on Online Abuse and Harms at ACL 2025](https://www.workshopononlineabuse.com/) (Aug '25, Vienna).
 * **Jun 2024:**
   - I presented [our work on predicting radicalisation](https://aclanthology.org/2024.woah-1.1/) at the Workshop for Online Abuse and Harms at NAACL 2024 in Mexico City.
-  - Our shared task (SemEval 2024 Task 1: Semantic Textual Relatedness (STR))[https://github.com/semantic-textual-relatedness/Semantic_Relatedness_SemEval2024] developed datasets in 14 languages and received 70 submissions. We received an honorable mention for the best paper award at SemEval 2024. 
+  - Our shared task (SemEval 2024 Task 1: Semantic Textual Relatedness)[https://github.com/semantic-textual-relatedness/Semantic_Relatedness_SemEval2024] developed datasets in 14 languages and received 70 submissions. We received an honorable mention for the best paper award at SemEval 2024. 
 
 # Supervision
 ## PhD
