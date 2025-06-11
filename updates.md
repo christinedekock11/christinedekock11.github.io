@@ -4,6 +4,8 @@ title: Updates and activities
 cover-img: "/assets/img/IMG_20190428_154310.jpg"
 ---
 # News: 
+* **June 2025:** New preprint on [decoding extremist cryptolects](https://arxiv.org/abs/2506.05635)! 
+* **May 2025:** I'm pleased to have had 4 papers accepted to ACL 2025, including [my first solo-author paper on extremist in-group language](https://arxiv.org/abs/2409.19257), [a large collaborative work on emotion recognition in 28 languages](https://arxiv.org/abs/2502.11926), [a study on misinformation detection with emotional information](https://arxiv.org/abs/2406.11093), and a paper on Wikipedia Sockpuppetry detection with meta-learning.  
 * **Jan 2025:** I have been awarded the Doreen Thomas Fellowship and the role of assistant professor / lecturer in the NLP group at UniMelb. **I am recruiting PhD students!**
 * **Dec 2024:** I am co-organising the [First International Workshop on Protecting Women Online](https://tsww25.github.io/organisers.html) at the Web Conference 2025 (Sydney, April '25).
 * **Nov 2024:** I was elected Secretary of EquiCL, the Broad Interest Group for Equity in ACL. [Become a member!](https://docs.google.com/forms/d/e/1FAIpQLScxNh80gaLx_a30W0feyYNwrZqokfXEsv3BlCCgjd1paIi_gw/viewform?usp=sharing)
