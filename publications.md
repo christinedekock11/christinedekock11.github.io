@@ -4,7 +4,9 @@ title: Publications and resources
 cover-img: "assets/img/IMG_5763.jpg"
 ---
 # Papers: 
-- De Kock, C. (2025). [LISTN: Lexicon Induction with Socio-Temporal Nuance.](https://arxiv.org/pdf/arXiv:2409.19257.pdf). ACL 2025.
+- De Kock, C. et al. (2025). [IYKYK: Using language models to decode extremist cryptolects](https://arxiv.org/abs/2506.05635). Preprint.
+
+- De Kock, C. (2025). [LISTN: Lexicon Induction with Socio-Temporal Nuance](https://arxiv.org/pdf/arXiv:2409.19257.pdf). ACL 2025.
 
 - De Kock, C. (2024). [Jointly modelling the evolution of community structure and language in online extremist groups.](https://arxiv.org/pdf/arXiv:2409.19243.pdf) Preprint.
 
