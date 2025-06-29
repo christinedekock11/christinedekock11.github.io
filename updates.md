@@ -16,7 +16,8 @@ cover-img: "/assets/img/IMG_20190428_154310.jpg"
   - a large collaborative work on [emotion recognition in 28 languages](https://arxiv.org/abs/2502.11926) led by Shamsuddeen Muhammad (Imperial College London) and Nedjma Ousidhoum (Cardiff University).
   - a study on [misinformation detection with emotional information](https://arxiv.org/abs/2406.11093) led by Zhiwei Liu (Manchester University), and
   - a study on [Wikipedia sockpuppetry detection with meta-learning](https://arxiv.org/abs/2506.10314), led by my Masters student Luc Raszewski.
-- New preprint on [decoding extremist cryptolects](https://arxiv.org/abs/2506.05635)!
+- Our paper **Pathways to Radicalisation: On Radicalisation Research in Natural Language Processing and Machine Learning** was accepted to WOAH 2025. This work was led by Zeerak Talat (Edinburgh University).
+- New preprint on [decoding extremist cryptolects](https://arxiv.org/abs/2506.05635)! I led this collaboration with Arij Riabi (Inria, Paris), Zeerak Talat (Edinburgh University), Michael Schlichtkrull (Queen Mary University of London), Pranava Madhyastha (The Alan Turing Institute) and Ed Hovy (UniMelb).
  
 **April 2025:** The [First International Workshop on Protecting Women Online](https://www.linkedin.com/posts/centre-for-protecting-women-online_cpwo-protectingwomenonline-onlinesafety-activity-7323579627682086912-3eUa?utm_source=share&utm_medium=member_desktop&rcm=ACoAABc0RtEBtgGOBg37KNmD-z970KNI9umJ0e8) at WebConf 2025 was a great success! I co-organised this event with Ángel Pavón Pérez, Miriam Fernandez, and Tracie Farrell from The Open University, and Debora Nozza from Bocconi University. Ángel and I facilitated the session.
   
