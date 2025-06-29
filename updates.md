@@ -21,21 +21,19 @@ cover-img: "/assets/img/IMG_20190428_154310.jpg"
  
 **April 2025:** The [First International Workshop on Protecting Women Online](https://www.linkedin.com/posts/centre-for-protecting-women-online_cpwo-protectingwomenonline-onlinesafety-activity-7323579627682086912-3eUa?utm_source=share&utm_medium=member_desktop&rcm=ACoAABc0RtEBtgGOBg37KNmD-z970KNI9umJ0e8) at WebConf 2025 was a great success! I co-organised this event with Ángel Pavón Pérez, Miriam Fernandez, and Tracie Farrell from The Open University, and Debora Nozza from Bocconi University. Ángel and I facilitated the session.
   
-**March 2025:** I participated in a panel discussion on generative AI for a delegation of Brazilian executives at the UniMelb Business School along with Ed Hovy, Merida Sussex and Eun-Jun Holden. 
+**March 2025:** I participated in a panel discussion on generative AI for a delegation of 80 alumni and MBA students of St Paul Business School from Sao Paulo, Brazil. This event was hosted by the UniMelb Business School along with Ed Hovy, Merida Sussex and Eun-Jun Holden. 
 
 **Jan 2025:** I have been awarded the Doreen Thomas Fellowship and the role of assistant professor / lecturer in the NLP group at UniMelb. **I am recruiting PhD students!**
 
-**Dec 2024:** I am co-organising the [First International Workshop on Protecting Women Online](https://tsww25.github.io/organisers.html) at the Web Conference 2025 (Sydney, April '25).
+**Nov 2024:** I was elected Secretary of EquiCL, the Broad Interest Group for Equity in ACL. [Become a member!](https://docs.google.com/forms/d/e/1FAIpQLScxNh80gaLx_a30W0feyYNwrZqokfXEsv3BlCCgjd1paIi_gw/viewform?usp=sharing)
 
-* **Nov 2024:** I was elected Secretary of EquiCL, the Broad Interest Group for Equity in ACL. [Become a member!](https://docs.google.com/forms/d/e/1FAIpQLScxNh80gaLx_a30W0feyYNwrZqokfXEsv3BlCCgjd1paIi_gw/viewform?usp=sharing)
+**Oct 2024:** I gave invited talks at the UniMelb CIS Seminar Series and the Complex Human Data Hub.
 
-* **Oct 2024:** I gave invited talks at the UniMelb CIS Seminar Series and the Complex Human Data Hub.
+**Sept 2024:** I am an organiser on the SemEval Task 11 2025 on Bridging the Gap in Text-Based Emotion Detection. [Details here.](https://www.aclweb.org/portal/content/first-cfp-semeval-shared-task-11-bridging-gap-text-base-emotion-detection)
 
-* **Sept 2024:** I am an organiser on the SemEval Task 11 2025 on Bridging the Gap in Text-Based Emotion Detection. [Details here.](https://www.aclweb.org/portal/content/first-cfp-semeval-shared-task-11-bridging-gap-text-base-emotion-detection)
+**Aug 2024:** I am co-organising the [9th Workshop on Online Abuse and Harms](https://www.workshopononlineabuse.com/) at ACL 2025 (Aug '25, Vienna).
 
-* **Aug 2024:** I am co-organising the [9th Workshop on Online Abuse and Harms](https://www.workshopononlineabuse.com/) at ACL 2025 (Aug '25, Vienna).
-
-* **Jun 2024:**
+**Jun 2024:**
   - I presented [our work on predicting radicalisation](https://aclanthology.org/2024.woah-1.1/) at the Workshop for Online Abuse and Harms at NAACL 2024 in Mexico City.
   - Our shared task [SemEval 2024 Task 1: Semantic Textual Relatedness](https://github.com/semantic-textual-relatedness/Semantic_Relatedness_SemEval2024) developed datasets in 14 languages and received 70 submissions. We received an honorable mention for the best paper award at SemEval 2024. 
 
