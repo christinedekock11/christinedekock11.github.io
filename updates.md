@@ -7,7 +7,7 @@ cover-img: "/assets/img/IMG_20190428_154310.jpg"
 **June 2025:**
 - Along with Philip Pond, Ed Hovy, Morgan Saletta, Piers Howe, and Andrew Perfors, I co-hosted The **First Workshop on Healthy Information Environments** at UniMelb. This workshop brought together experts from industry, academia, the media, and regulatory bodies.
 - I am presenting my work on [Forecasting the socio-linguistic evolution of online extremist communities](https://arxiv.org/abs/2409.19243) at the Melbourne and RIKEN-AIP Joint Workshop.
-- I co-organised The 1st Workshop on [Misinformation Detection in the Era of LLMs** (MisD 2025)](https://workshop-proceedings.icwsm.org/pdf/2025_22.pdf) at **ICWSM 2025 (Copenhagen)** with Zhiwei Liu (Manchester Uni),  Peter Knight (Carnegie Mellon University), Eduard Hovy (UniMelb), and Sophia Ananiadou (Manchester Uni). Zhiwei and Sophia led the planning and facilitation of this workshop. 
+- I co-organised The 1st Workshop on [Misinformation Detection in the Era of LLMs (MisD 2025)](https://workshop-proceedings.icwsm.org/pdf/2025_22.pdf) at **ICWSM 2025 (Copenhagen)** with Zhiwei Liu (Manchester Uni),  Peter Knight (Carnegie Mellon University), Eduard Hovy (UniMelb), and Sophia Ananiadou (Manchester Uni). Zhiwei and Sophia led the planning and facilitation of this workshop. 
 - I participated as domain expert in the **AI-WTF event** at the **UniMelb Faculty of Arts, Humanities and Social Sciences**.
  
 **May 2025:**
@@ -19,7 +19,7 @@ cover-img: "/assets/img/IMG_20190428_154310.jpg"
 - Our paper **Pathways to Radicalisation: On Radicalisation Research in Natural Language Processing and Machine Learning** was accepted to WOAH 2025. This work was led by Zeerak Talat (Edinburgh University).
 - New preprint on [decoding extremist cryptolects](https://arxiv.org/abs/2506.05635)! I led this collaboration with Arij Riabi (Inria, Paris), Zeerak Talat (Edinburgh University), Michael Schlichtkrull (Queen Mary University of London), Pranava Madhyastha (The Alan Turing Institute) and Ed Hovy (UniMelb).
  
-**April 2025:** The [First International Workshop on Protecting Women Online](https://www.linkedin.com/posts/centre-for-protecting-women-online_cpwo-protectingwomenonline-onlinesafety-activity-7323579627682086912-3eUa?utm_source=share&utm_medium=member_desktop&rcm=ACoAABc0RtEBtgGOBg37KNmD-z970KNI9umJ0e8) at WebConf 2025 was a great success! I co-organised this event with Ángel Pavón Pérez, Miriam Fernandez, and Tracie Farrell from The Open University, and Debora Nozza from Bocconi University. Ángel and I facilitated the session.
+**April 2025:** The [First International Workshop on Protecting Women Online](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=1BtQE8MAAAAJ&citation_for_view=1BtQE8MAAAAJ:LkGwnXOMwfcC) at WebConf 2025 was a great success! I co-organised this event with Ángel Pavón Pérez, Miriam Fernandez, and Tracie Farrell from The Open University, and Debora Nozza from Bocconi University. Ángel and I facilitated the session.
   
 **March 2025:** I participated in a panel discussion on generative AI for a delegation of 80 alumni and MBA students of St Paul Business School from Sao Paulo, Brazil. This event was hosted by the UniMelb Business School along with Ed Hovy, Merida Sussex and Eun-Jun Holden. 
 
