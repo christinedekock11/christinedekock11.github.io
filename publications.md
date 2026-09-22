@@ -4,13 +4,31 @@ title: Publications and resources
 cover-img: "assets/img/IMG_5763.jpg"
 ---
 # Papers: 
+- Yuan, A. Y., De Kock, C., & Leckie, C. (2026). [Leveraging speech acts for low-data and cross-domain conversation derailment forecasting](https://arxiv.org/abs/2608.25359). Preprint.
+
+- Ousidhoum, N., et al. (2026). [SemEval-2026 Task 7: Everyday knowledge across diverse languages and cultures](https://arxiv.org/abs/2605.02601). SemEval 2026.
+
+- De Kock, C., & Hovy, E. (2026). [Triggered: A statistical analysis of environmental influences on extremist groups](https://arxiv.org/abs/2602.09289). Preprint.
+
 - De Kock, C. et al. (2025). [IYKYK: Using language models to decode extremist cryptolects](https://arxiv.org/abs/2506.05635). Preprint.
 
-- De Kock, C. (2025). [Inducing lexicons of in-group language with socio-temporal context](https://arxiv.org/pdf/arXiv:2409.19257.pdf). ACL 2025.
+- De Kock, C. (2025). [Inducing lexicons of in-group language with socio-temporal context](https://arxiv.org/abs/2409.19257). ACL 2025.
 
-- De Kock, C. (2024). [Jointly modelling the evolution of community structure and language in online extremist groups.](https://arxiv.org/pdf/arXiv:2409.19243.pdf) Preprint.
+- Raszewski, L., & De Kock, C. (2025). [Detecting sockpuppetry on Wikipedia using meta-learning](https://arxiv.org/abs/2506.10314). ACL 2025.
+
+- Muhammad, S. H., et al. (2025). [BRIGHTER: BRIdging the Gap in Human-Annotated Textual Emotion Recognition Datasets for 28 languages](https://arxiv.org/abs/2502.11926). ACL 2025.
+
+- Liu, Z., et al. (2025). [RAEmoLLM: Retrieval augmented LLMs for cross-domain misinformation detection using in-context learning based on emotional information](https://arxiv.org/abs/2406.11093). ACL 2025.
+
+- Muhammad, S. H., et al. (2025). [SemEval-2025 Task 11: Bridging the gap in text-based emotion detection](https://arxiv.org/abs/2503.07269). SemEval 2025.
+
+- De Kock, C. (2024). [Jointly modelling the evolution of social structure and language in online communities.](https://arxiv.org/abs/2409.19243) Preprint.
 
 - De Kock, C., & Hovy, E. (2024). [Investigating radicalisation indicators in online extremist communities.](https://aclanthology.org/2024.woah-1.1.pdf) Workshop for Online Abuse and Harms at NAACL 2024.
+
+- Ousidhoum, N., et al. (2024). [SemEval-2024 Task 1: Semantic textual relatedness for African and Asian languages](https://arxiv.org/abs/2403.18933). SemEval 2024.
+
+- Ousidhoum, N., et al. (2024). [SemRel2024: A collection of semantic textual relatedness datasets for 13 languages](https://arxiv.org/abs/2402.08638). Findings of ACL 2024.
 
 - De Kock, C., Stafford, T., & Vlachos, A. (2022). [How to disagree well: Investigating the dispute tactics used on Wikipedia.](https://arxiv.org/pdf/2212.08353.pdf) EMNLP 2022.
 
@@ -31,5 +49,22 @@ cover-img: "assets/img/IMG_5763.jpg"
 - [WikiDisputes](https://github.com/christinedekock11/wikidisputes): A dataset of disagreements on Wikipedia Talk pages.
 
 
+# Students
 
+### PhD students
+- Jemima Kang (2024-), co-supervised with Mike Conway and Nick Haslam.
 
+- Xihan Zu (2025-), co-supervised with Mike Conway.
+
+- Ne Luo (2025-), co-supervised with Lea Frermann and Feng Liu.
+
+- Angela Yifei Yuan (2026-), co-supervised with Chris Leckie.
+
+- Haoyi Li (2026-), co-supervised with Chris Leckie.
+
+- Fatemeh Taherinezhad (2026-), co-supervised with Yulia Otmakhova and Tom Drummond.
+
+### Masters students
+- Zeynep Güler (exchange student from Bocconi University, 2025-2026), co-supervised with Debora Nozza, Pranita Shrestha and Dirk Hovy.
+
+- Luc Raszewski (2025).
