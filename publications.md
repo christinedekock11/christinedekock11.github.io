@@ -6,11 +6,19 @@ cover-img: "assets/img/IMG_5763.jpg"
 # Papers: 
 - Yuan, A. Y., De Kock, C., & Leckie, C. (2026). [Leveraging speech acts for low-data and cross-domain conversation derailment forecasting](https://arxiv.org/abs/2608.25359). Preprint.
 
+- Baes, N., Raszewski, L., Vylomova, E., Haslam, N., & De Kock, C. (2026). [A multidimensional computational analysis of dehumanization in incel discourse](https://ojs.aaai.org/index.php/ICWSM/article/view/42632). ICWSM 2026.
+
+- Kang, J., Conway, M., Haslam, N., & De Kock, C. (2026). [Reshaping of mental health discourse on Reddit: The rise of neurodivergence](https://ojs.aaai.org/index.php/ICWSM/article/view/42687). ICWSM 2026.
+
+- De Kock, C. (2026). [Jointly modelling the evolution of social structure and language in online communities](https://ojs.aaai.org/index.php/ICWSM/article/view/42657). ICWSM 2026.
+
+- De Kock, C., Riabi, A., Talat, Z., Schlichtkrull, M., Madhyastha, P., & Hovy, E. (2026). [IYKYK: Using language models to decode extremist cryptolects](https://aclanthology.org/2026.eacl-long.393/). EACL 2026.
+
+- Pavón Pérez, Á., Farrell, T., De Kock, C., Jurasz, O., Nozza, D., & Fernández, M. (2026). [Still unsafe: What's holding us back on online safety for women](https://doi.org/10.1007/s43681-026-01097-0). AI and Ethics.
+
 - Ousidhoum, N., et al. (2026). [SemEval-2026 Task 7: Everyday knowledge across diverse languages and cultures](https://arxiv.org/abs/2605.02601). SemEval 2026.
 
 - De Kock, C., & Hovy, E. (2026). [Triggered: A statistical analysis of environmental influences on extremist groups](https://arxiv.org/abs/2602.09289). Preprint.
-
-- De Kock, C. et al. (2025). [IYKYK: Using language models to decode extremist cryptolects](https://arxiv.org/abs/2506.05635). Preprint.
 
 - De Kock, C. (2025). [Inducing lexicons of in-group language with socio-temporal context](https://arxiv.org/abs/2409.19257). ACL 2025.
 
@@ -22,7 +30,7 @@ cover-img: "assets/img/IMG_5763.jpg"
 
 - Muhammad, S. H., et al. (2025). [SemEval-2025 Task 11: Bridging the gap in text-based emotion detection](https://arxiv.org/abs/2503.07269). SemEval 2025.
 
-- De Kock, C. (2024). [Jointly modelling the evolution of social structure and language in online communities.](https://arxiv.org/abs/2409.19243) Preprint.
+- Vallejo, G., De Kock, C., Baldwin, T., & Frermann, L. (2025). [Human interest framing across cultures: A case study on climate change](https://aclanthology.org/2025.coling-main.754/). COLING 2025.
 
 - De Kock, C., & Hovy, E. (2024). [Investigating radicalisation indicators in online extremist communities.](https://aclanthology.org/2024.woah-1.1.pdf) Workshop for Online Abuse and Harms at NAACL 2024.
 
