@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Publications and resources
+title: Research
 cover-img: "assets/img/IMG_5763.jpg"
 ---
 # Papers: 
@@ -39,7 +39,9 @@ cover-img: "assets/img/IMG_5763.jpg"
 - De Kock, C., & Vlachos, A. (2021). [I Beg to Differ: A study of constructive disagreement in online conversations.](https://aclanthology.org/2021.eacl-main.173/) EACL 2021.
 
 
-# Datasets
+# Datasets and resources
+- [Radicalisation indicators](https://github.com/christinedekock11/radicalisation-indicators): Manosphere forum data labelled for longevity, hostility and centrality, plus a white supremacist forum lexicon.
+
 - [LISTN](https://github.com/christinedekock11/listn/tree/main): Manosphere lexicons.
 
 - [WikiTactics](https://github.com/christinedekock11/wikitactics): Wikipedia Talk page disagreements annotated according to their dispute tactics.
@@ -47,6 +49,17 @@ cover-img: "assets/img/IMG_5763.jpg"
 - [WikiEvolve](https://github.com/christinedekock11/wiki-evolve):Wikipedia article snapshots for promotional tone detection.
 
 - [WikiDisputes](https://github.com/christinedekock11/wikidisputes): A dataset of disagreements on Wikipedia Talk pages.
+
+### Collaborative resources
+- [BRIGHTER](https://huggingface.co/datasets/brighter-dataset/BRIGHTER-emotion-categories): Emotion-annotated datasets for 28 languages.
+
+- [SemEval-2026 Task 7](https://github.com/BLEnD-SemEval2026/SemEval-2026-Task-7): Everyday knowledge across diverse languages and cultures.
+
+- [SemEval-2025 Task 11](https://github.com/emotion-analysis-project/SemEval2025-Task11): Text-based emotion detection.
+
+- [SemRel2024](https://github.com/semantic-textual-relatedness/Semantic_Relatedness_SemEval2024): Semantic textual relatedness datasets for 13 languages, used in SemEval-2024 Task 1.
+
+- [RAEmoLLM](https://github.com/lzw108/RAEmoLLM): Code for retrieval-augmented cross-domain misinformation detection.
 
 
 # Students
