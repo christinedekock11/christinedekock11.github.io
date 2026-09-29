@@ -72,7 +72,11 @@ cover-img: "assets/img/IMG_5763.jpg"
 
 # Students
 
+**I am not currently accepting new PhD students.**
+
 ### PhD students
+- Gisela Vallejo (2023-2026), co-supervised with Lea Frermann and Tim Baldwin.
+
 - Jemima Kang (2024-), co-supervised with Mike Conway and Nick Haslam.
 
 - Xihan Zu (2025-), co-supervised with Mike Conway.
