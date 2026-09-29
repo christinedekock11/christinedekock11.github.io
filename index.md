@@ -5,8 +5,8 @@ subtitle: NLP researcher
 cover-img: "/assets/img/IMG_5777.jpg"
 ---
 
-<center> Hi! My name is Christine. 
-  
+<center> Hi! My name is Christine. </center>
+
 <center> I am an NLP researcher / lecturer at the University of Melbourne. </center> 
 
 <center> I like languages, computational social science, and machine learning. </center> 
