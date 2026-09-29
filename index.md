@@ -1,8 +1,20 @@
 ---
-layout: page
-title: Research
-cover-img: "assets/img/IMG_5763.jpg"
+layout: home
+title: Dr Christine de Kock 
+subtitle: NLP researcher
+cover-img: "/assets/img/IMG_5777.jpg"
 ---
+
+<center> Hi! My name is Christine. 
+  
+<center> I am an NLP researcher / lecturer at the University of Melbourne. </center> 
+
+<center> I like languages, computational social science, and machine learning. </center> 
+
+<center> I am not currently accepting new PhD students. </center> 
+
+<center> Feel free to check out <a href="christine_cv.pdf">my CV</a> and my <a href="#papers">publications</a> below, or <a href="mailto:christinedekock11@gmail.com">get in touch</a>! </center> 
+
 # Papers: 
 - Yuan, A. Y., De Kock, C., & Leckie, C. (2026). [Leveraging speech acts for low-data and cross-domain conversation derailment forecasting](https://arxiv.org/abs/2608.25359). Preprint.
 
@@ -29,6 +41,8 @@ cover-img: "assets/img/IMG_5763.jpg"
 - Liu, Z., et al. (2025). [RAEmoLLM: Retrieval augmented LLMs for cross-domain misinformation detection using in-context learning based on emotional information](https://arxiv.org/abs/2406.11093). ACL 2025.
 
 - Muhammad, S. H., et al. (2025). [SemEval-2025 Task 11: Bridging the gap in text-based emotion detection](https://arxiv.org/abs/2503.07269). SemEval 2025.
+
+- Talat, Z., Schlichtkrull, M., Madhyastha, P., & De Kock, C. (2025). [Pathways to radicalisation: On research for online radicalisation in natural language processing and machine learning](https://aclanthology.org/2025.woah-1.25/). Workshop for Online Abuse and Harms at ACL 2025.
 
 - Vallejo, G., De Kock, C., Baldwin, T., & Frermann, L. (2025). [Human interest framing across cultures: A case study on climate change](https://aclanthology.org/2025.coling-main.754/). COLING 2025.
 
@@ -75,7 +89,7 @@ cover-img: "assets/img/IMG_5763.jpg"
 **I am not currently accepting new PhD students.**
 
 ### PhD students
-- Gisela Vallejo (2023-2026), co-supervised with Lea Frermann and Tim Baldwin.
+- Gisela Vallejo (2023-2025), co-supervised with Lea Frermann and Tim Baldwin.
 
 - Jemima Kang (2024-), co-supervised with Mike Conway and Nick Haslam.
 
