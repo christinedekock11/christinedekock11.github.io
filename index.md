@@ -9,8 +9,6 @@ cover-img: "/assets/img/IMG_5777.jpg"
 
 <center> I am an NLP researcher / lecturer at the University of Melbourne. </center> 
 
-<center> I like languages, computational social science, and machine learning. </center> 
-
 ***
 
 # Recent publications
