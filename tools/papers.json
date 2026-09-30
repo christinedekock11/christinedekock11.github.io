@@ -1,0 +1,354 @@
+[
+ {
+  "label": "Still Unsafe",
+  "venue": "AI and Ethics",
+  "year": 2026,
+  "authors": [
+   "Ángel Pavón Pérez",
+   "Tracie Farrell",
+   "Christine de Kock",
+   "Olga Jurasz",
+   "Debora Nozza",
+   "Miriam Fernández"
+  ]
+ },
+ {
+  "label": "Incel Dehumanisation",
+  "venue": "ICWSM 2026",
+  "year": 2026,
+  "authors": [
+   "Naomi Baes",
+   "Luc Raszewski",
+   "Ekaterina Vylomova",
+   "Nick Haslam",
+   "Christine de Kock"
+  ]
+ },
+ {
+  "label": "Speech Acts",
+  "venue": "Preprint",
+  "year": 2026,
+  "authors": [
+   "Angela Yifei Yuan",
+   "Christine de Kock",
+   "Chris Leckie"
+  ]
+ },
+ {
+  "label": "Neurodivergence on Reddit",
+  "venue": "ICWSM 2026",
+  "year": 2026,
+  "authors": [
+   "Jemima Kang",
+   "Mike Conway",
+   "Nick Haslam",
+   "Christine de Kock"
+  ]
+ },
+ {
+  "label": "Triggered",
+  "venue": "Preprint",
+  "year": 2026,
+  "authors": [
+   "Christine de Kock",
+   "Eduard Hovy"
+  ]
+ },
+ {
+  "label": "Human Interest Framing",
+  "venue": "COLING 2025",
+  "year": 2025,
+  "authors": [
+   "Gisela Vallejo",
+   "Christine de Kock",
+   "Tim Baldwin",
+   "Lea Frermann"
+  ]
+ },
+ {
+  "label": "Sockpuppetry",
+  "venue": "ACL 2025",
+  "year": 2025,
+  "authors": [
+   "Luc Raszewski",
+   "Christine de Kock"
+  ]
+ },
+ {
+  "label": "Radicalisation Indicators",
+  "venue": "WOAH 2024",
+  "year": 2024,
+  "authors": [
+   "Christine de Kock",
+   "Eduard Hovy"
+  ]
+ },
+ {
+  "label": "Inducing Lexicons",
+  "venue": "ACL 2025",
+  "year": 2025,
+  "authors": [
+   "Christine de Kock"
+  ]
+ },
+ {
+  "label": "Jointly Modelling",
+  "venue": "ICWSM 2026",
+  "year": 2026,
+  "authors": [
+   "Christine de Kock"
+  ]
+ },
+ {
+  "label": "Promotional Tone",
+  "venue": "ACL 2022",
+  "year": 2022,
+  "authors": [
+   "Christine de Kock",
+   "Andreas Vlachos"
+  ]
+ },
+ {
+  "label": "SemEval-2026 T7",
+  "venue": "SemEval 2026",
+  "year": 2026,
+  "authors": [
+   "Nedjma Ousidhoum",
+   "Junho Myung",
+   "Carla Pérez-Almendros",
+   "Jiho Jin",
+   "Amr Keleg",
+   "Meriem Beloucif",
+   "Yi Zhou",
+   "Rodrigo Agerri",
+   "Vladimir Araujo",
+   "Naomi Baes",
+   "James Barry",
+   "Joanne Boisson",
+   "Nancy F. Chen",
+   "Christine de Kock",
+   "A. Edwards",
+   "Joseba Fernandez de Landa",
+   "Mohamed Fazli Mohamed Imam",
+   "Huda Hakami",
+   "Shu-Kai Hsieh",
+   "Joseph Marvin Imperial",
+   "Roy Ka-Wei Lee",
+   "Zhengyuan Liu",
+   "Chenyang Lyu",
+   "Younes Samih",
+   "Johan Sjons",
+   "B. Tan",
+   "Asahi Ushio",
+   "Wei-Hua Zheng",
+   "Alice Oh",
+   "José Camacho-Collados"
+  ]
+ },
+ {
+  "label": "BRIGHTER",
+  "venue": "ACL 2025",
+  "year": 2025,
+  "authors": [
+   "Shamsuddeen Hassan Muhammad",
+   "Nedjma Ousidhoum",
+   "Idris Abdulmumin",
+   "Jan Philip Wahle",
+   "Terry Ruas",
+   "Meriem Beloucif",
+   "Christine de Kock",
+   "Nirmal Surange",
+   "Daniela Teodorescu",
+   "Ibrahim Said Ahmad",
+   "David Ifeoluwa Adelani",
+   "Alham Fikri Aji",
+   "Felermino Ali",
+   "I. Alimova",
+   "Vladimir Araujo",
+   "N. Babakov",
+   "Naomi Baes",
+   "Ana-Maria Bucur",
+   "Andiswa Bukula",
+   "Guanqun Cao",
+   "R. Cardenas",
+   "Rendi Chevi",
+   "C. Chukwuneke",
+   "Alexandra Ciobotaru",
+   "Daryna Dementieva",
+   "Murja Sani Gadanya",
+   "Robert Geislinger",
+   "Bela Gipp",
+   "Oumaima Hourrane",
+   "Oana Ignat",
+   "F. I. Lawan",
+   "Rooweither Mabuya",
+   "Rahmad Mahendra",
+   "V. Marivate",
+   "Andrew Piper",
+   "Alexander Panchenko",
+   "Charles Henrique Porto Ferreira",
+   "Vitaly Protasov",
+   "Samuel Rutunda",
+   "Manish Shrivastava",
+   "Aura Cristina Udrea",
+   "L. Wanzare",
+   "Sophie Wu",
+   "F. Wunderlich",
+   "Hanif Muhammad Zhafran",
+   "Tianhui Zhang",
+   "Yi Zhou",
+   "Saif Mohammad"
+  ]
+ },
+ {
+  "label": "SemEval-2025 T11",
+  "venue": "SemEval 2025",
+  "year": 2025,
+  "authors": [
+   "Shamsuddeen Hassan Muhammad",
+   "Nedjma Ousidhoum",
+   "Idris Abdulmumin",
+   "Seid Muhie Yimam",
+   "Jan Philip Wahle",
+   "Terry Ruas",
+   "Meriem Beloucif",
+   "Christine de Kock",
+   "Tadesse Destaw Belay",
+   "Ibrahim Said Ahmad",
+   "Nirmal Surange",
+   "Daniela Teodorescu",
+   "David Ifeoluwa Adelani",
+   "Alham Fikri Aji",
+   "Felermino Ali",
+   "Vladimir Araujo",
+   "A. Ayele",
+   "Oana Ignat",
+   "Alexander Panchenko",
+   "Yi Zhou",
+   "Saif Mohammad"
+  ]
+ },
+ {
+  "label": "SemEval-2024 T1",
+  "venue": "SemEval 2024",
+  "year": 2024,
+  "authors": [
+   "Nedjma Ousidhoum",
+   "Shamsuddeen Hassan Muhammad",
+   "Mohamed Abdalla",
+   "Idris Abdulmumin",
+   "Ibrahim Said Ahmad",
+   "Sanchit Ahuja",
+   "Alham Fikri Aji",
+   "Vladimir Araujo",
+   "Meriem Beloucif",
+   "Christine de Kock",
+   "Oumaima Hourrane",
+   "Manish Shrivastava",
+   "Thamar Solorio",
+   "Nirmal Surange",
+   "Krishnapriya Vishnubhotla",
+   "Seid Muhie Yimam",
+   "Saif Mohammad"
+  ]
+ },
+ {
+  "label": "How to Disagree Well",
+  "venue": "EMNLP 2022",
+  "year": 2022,
+  "authors": [
+   "Christine de Kock",
+   "Tom Stafford",
+   "Andreas Vlachos"
+  ]
+ },
+ {
+  "label": "Survival Text Regression",
+  "venue": "Findings of ACL 2021",
+  "year": 2021,
+  "authors": [
+   "Christine de Kock",
+   "Andreas Vlachos"
+  ]
+ },
+ {
+  "label": "I Beg to Differ",
+  "venue": "EACL 2021",
+  "year": 2021,
+  "authors": [
+   "Christine de Kock",
+   "Andreas Vlachos"
+  ]
+ },
+ {
+  "label": "RAEmoLLM",
+  "venue": "ACL 2025",
+  "year": 2025,
+  "authors": [
+   "Zhiwei Liu",
+   "Kailai Yang",
+   "Qianqian Xie",
+   "Christine de Kock",
+   "Sophia Ananiadou",
+   "Eduard Hovy"
+  ]
+ },
+ {
+  "label": "IYKYK",
+  "venue": "EACL 2026",
+  "year": 2026,
+  "authors": [
+   "Christine de Kock",
+   "Arij Riabi",
+   "Zeerak Talat",
+   "Michael Sejr Schlichtkrull",
+   "Pranava Madhyastha",
+   "Eduard Hovy"
+  ]
+ },
+ {
+  "label": "Pathways to Radicalisation",
+  "venue": "WOAH 2025",
+  "year": 2025,
+  "authors": [
+   "Zeerak Talat",
+   "Michael Sejr Schlichtkrull",
+   "Pranava Madhyastha",
+   "Christine de Kock"
+  ]
+ },
+ {
+  "label": "SemRel2024",
+  "venue": "Findings of ACL 2024",
+  "year": 2024,
+  "authors": [
+   "Nedjma Ousidhoum",
+   "Shamsuddeen Hassan Muhammad",
+   "Mohamed Abdalla",
+   "Idris Abdulmumin",
+   "Ibrahim Said Ahmad",
+   "Sanchit Ahuja",
+   "Alham Fikri Aji",
+   "Vladimir Araujo",
+   "Abinew Ali Ayele",
+   "Pavan Baswani",
+   "Meriem Beloucif",
+   "Chris Biemann",
+   "Sofia Bourhim",
+   "Christine De Kock",
+   "Genet Shanko Dekebo",
+   "Oumaima Hourrane",
+   "Gopichand Kanumolu",
+   "Lokesh Madasu",
+   "Samuel Rutunda",
+   "Manish Shrivastava",
+   "Thamar Solorio",
+   "Nirmal Surange",
+   "Hailegnaw Getaneh Tilaye",
+   "Krishnapriya Vishnubhotla",
+   "Genta Winata",
+   "Seid Muhie Yimam",
+   "Saif M. Mohammad"
+  ]
+ }
+]

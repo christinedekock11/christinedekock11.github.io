@@ -10,6 +10,8 @@ framework, no build step. GitHub Pages serves the files as-is (`.nojekyll`).
     assets/img/           banner.jpg and portrait.jpg are the two images in use;
                           the IMG_*.jpg files are the full-size originals
     christine_cv.pdf      linked from the header
+    tools/                data and scripts that regenerate the co-authorship
+                          figure; see tools/README.md
 
 To add a publication, copy an existing `<li>` in the `ol.papers` list and edit
 the three parts: `<span class="meta">` (authors and year), the `<a class="title">`
