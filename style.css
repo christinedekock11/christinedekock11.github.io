@@ -1,0 +1,191 @@
+/* christinedekock.com — hand-rolled, no framework, no build step. */
+
+:root {
+  --bg:        #ffffff;
+  --text:      #1f262c;
+  --muted:     #5d6b76;
+  --faint:     #8a97a1;
+  --accent:    #2b6b8f;
+  --rule:      #e4e9ed;
+  --panel:     #f4f7f9;
+  --maxw:      46rem;
+}
+
+@media (prefers-color-scheme: dark) {
+  :root {
+    --bg:     #12171b;
+    --text:   #dde5ea;
+    --muted:  #9aa8b3;
+    --faint:  #78868f;
+    --accent: #7fb6d6;
+    --rule:   #263038;
+    --panel:  #1a2127;
+  }
+}
+
+*, *::before, *::after { box-sizing: border-box; }
+
+html { -webkit-text-size-adjust: 100%; }
+
+body {
+  margin: 0;
+  background: var(--bg);
+  color: var(--text);
+  font: 400 17px/1.65 -apple-system, BlinkMacSystemFont, "Segoe UI", Inter,
+        "Helvetica Neue", Arial, sans-serif;
+  font-feature-settings: "kern" 1;
+  text-rendering: optimizeLegibility;
+}
+
+a { color: var(--accent); text-decoration: none; }
+a:hover { text-decoration: underline; text-underline-offset: 2px; }
+
+/* ---------- header ---------- */
+
+.banner {
+  display: block;
+  width: 100%;
+  height: clamp(130px, 22vw, 230px);
+  object-fit: cover;
+  object-position: center 58%;
+}
+
+.wrap { max-width: var(--maxw); margin: 0 auto; padding: 0 1.4rem 4rem; }
+
+.intro { margin-top: -62px; }
+
+.portrait {
+  width: 124px; height: 124px;
+  border-radius: 50%;
+  object-fit: cover;
+  border: 5px solid var(--bg);
+  background: var(--bg);
+  display: block;
+}
+
+.intro h1 {
+  margin: 1rem 0 .15rem;
+  font-size: 2rem;
+  font-weight: 600;
+  letter-spacing: -0.02em;
+  line-height: 1.15;
+}
+
+.role { margin: 0; color: var(--muted); font-size: 1.02rem; }
+
+.tagline { margin: 1rem 0 0; color: var(--text); }
+
+.links {
+  margin: 1.1rem 0 0;
+  padding: 0;
+  list-style: none;
+  display: flex;
+  flex-wrap: wrap;
+  gap: .45rem .9rem;
+  font-size: .93rem;
+}
+.links li { display: flex; align-items: center; gap: .9rem; }
+.links li:not(:last-child)::after {
+  content: "";
+  width: 3px; height: 3px;
+  border-radius: 50%;
+  background: var(--faint);
+}
+
+/* ---------- sections ---------- */
+
+section { margin-top: 2.9rem; }
+
+h2 {
+  margin: 0 0 1.1rem;
+  padding-bottom: .5rem;
+  border-bottom: 1px solid var(--rule);
+  font-size: 1.28rem;
+  font-weight: 600;
+  letter-spacing: -0.01em;
+}
+
+h3 {
+  margin: 1.9rem 0 .8rem;
+  font-size: .82rem;
+  font-weight: 600;
+  text-transform: uppercase;
+  letter-spacing: .08em;
+  color: var(--faint);
+}
+
+/* ---------- publication list ---------- */
+
+ol.papers, ul.resources, ul.students {
+  margin: 0; padding: 0; list-style: none;
+}
+
+ol.papers li {
+  margin-bottom: 1.15rem;
+  padding-left: 1rem;
+  border-left: 2px solid var(--rule);
+  transition: border-color .15s ease;
+}
+ol.papers li:hover { border-left-color: var(--accent); }
+
+.meta { display: block; color: var(--muted); font-size: .88rem; }
+
+a.title { font-weight: 500; }
+
+.venue {
+  display: inline-block;
+  margin-top: .1rem;
+  color: var(--faint);
+  font-size: .84rem;
+  font-variant: small-caps;
+  letter-spacing: .03em;
+}
+.venue::before { content: "· "; }
+
+/* ---------- resources & students ---------- */
+
+ul.resources li, ul.students li {
+  margin-bottom: .7rem;
+  padding-left: 1rem;
+  position: relative;
+}
+ul.resources li::before, ul.students li::before {
+  content: "";
+  position: absolute;
+  left: 0; top: .72em;
+  width: 5px; height: 5px;
+  border-radius: 50%;
+  background: var(--faint);
+}
+.desc { color: var(--muted); font-size: .95rem; }
+
+.notice {
+  margin: 0 0 1.4rem;
+  padding: .7rem 1rem;
+  background: var(--panel);
+  border-left: 3px solid var(--accent);
+  border-radius: 0 4px 4px 0;
+  color: var(--text);
+  font-size: .95rem;
+}
+
+/* ---------- footer ---------- */
+
+footer {
+  margin-top: 3.5rem;
+  padding-top: 1.2rem;
+  border-top: 1px solid var(--rule);
+  color: var(--faint);
+  font-size: .85rem;
+  display: flex;
+  justify-content: space-between;
+  flex-wrap: wrap;
+  gap: .5rem;
+}
+
+@media (max-width: 480px) {
+  body { font-size: 16px; }
+  .intro { margin-top: -46px; }
+  .portrait { width: 96px; height: 96px; border-width: 4px; }
+  .intro h1 { font-size: 1.6rem; }
+}
