@@ -7,244 +7,244 @@
    "y": 0.0
   },
   {
-   "id": "Chris Leckie",
-   "papers": 1,
-   "x": -0.099,
-   "y": 1.0
-  },
-  {
-   "id": "Ibrahim Said Ahmad",
-   "papers": 4,
-   "x": -0.3482,
-   "y": -0.2475
-  },
-  {
-   "id": "Gisela Vallejo",
-   "papers": 1,
-   "x": -0.835,
-   "y": 0.5148
-  },
-  {
-   "id": "Oumaima Hourrane",
-   "papers": 3,
-   "x": 0.0741,
-   "y": 0.5329
-  },
-  {
-   "id": "Manish Shrivastava",
-   "papers": 3,
-   "x": 0.5347,
-   "y": -0.0085
-  },
-  {
-   "id": "Debora Nozza",
-   "papers": 1,
-   "x": -0.7482,
-   "y": -0.5583
-  },
-  {
-   "id": "Eduard Hovy",
-   "papers": 4,
-   "x": 0.2865,
-   "y": -0.4869
-  },
-  {
-   "id": "Zeerak Talat",
-   "papers": 2,
-   "x": -0.0549,
-   "y": -0.5753
-  },
-  {
-   "id": "Michael Sejr Schlichtkrull",
-   "papers": 2,
-   "x": 0.066,
-   "y": -0.6667
-  },
-  {
-   "id": "Qianqian Xie",
-   "papers": 1,
-   "x": 0.788,
-   "y": -0.4202
-  },
-  {
-   "id": "Tom Stafford",
-   "papers": 1,
-   "x": 0.2717,
-   "y": -0.8882
-  },
-  {
-   "id": "Tracie Farrell",
-   "papers": 1,
-   "x": -0.9935,
-   "y": -0.3188
-  },
-  {
-   "id": "Miriam Fernández",
-   "papers": 1,
-   "x": -0.7884,
-   "y": -0.3412
-  },
-  {
-   "id": "Pranava Madhyastha",
-   "papers": 2,
-   "x": -0.1643,
-   "y": -0.6582
-  },
-  {
-   "id": "Tim Baldwin",
-   "papers": 1,
-   "x": -0.7452,
-   "y": 0.6898
-  },
-  {
-   "id": "Kailai Yang",
-   "papers": 1,
-   "x": 0.7585,
-   "y": -0.6349
-  },
-  {
-   "id": "Naomi Baes",
-   "papers": 3,
-   "x": 0.3982,
-   "y": 0.369
-  },
-  {
-   "id": "Andreas Vlachos",
-   "papers": 4,
-   "x": 0.1344,
-   "y": -0.3735
-  },
-  {
-   "id": "Meriem Beloucif",
-   "papers": 5,
-   "x": 0.1355,
-   "y": 0.2671
-  },
-  {
-   "id": "Olga Jurasz",
-   "papers": 1,
-   "x": -0.9185,
-   "y": -0.1625
-  },
-  {
-   "id": "Saif Mohammad",
-   "papers": 3,
-   "x": -0.5412,
-   "y": 0.1314
-  },
-  {
-   "id": "Nick Haslam",
-   "papers": 2,
-   "x": 0.6314,
-   "y": 0.3502
-  },
-  {
-   "id": "Nirmal Surange",
-   "papers": 4,
-   "x": 0.3375,
-   "y": -0.1512
-  },
-  {
-   "id": "Sophia Ananiadou",
-   "papers": 1,
-   "x": 0.5861,
-   "y": -0.732
-  },
-  {
-   "id": "Lea Frermann",
-   "papers": 1,
-   "x": -0.5789,
-   "y": 0.7947
-  },
-  {
-   "id": "Shamsuddeen Hassan Muhammad",
-   "papers": 4,
-   "x": -0.3781,
-   "y": -0.0474
-  },
-  {
-   "id": "Luc Raszewski",
-   "papers": 2,
-   "x": 0.4017,
-   "y": 0.5715
-  },
-  {
-   "id": "Alham Fikri Aji",
-   "papers": 4,
-   "x": -0.3137,
-   "y": 0.1725
-  },
-  {
-   "id": "Arij Riabi",
-   "papers": 1,
-   "x": -0.033,
-   "y": -0.8905
-  },
-  {
    "id": "Vladimir Araujo",
    "papers": 5,
-   "x": 0.2838,
-   "y": 0.075
-  },
-  {
-   "id": "Ángel Pavón Pérez",
-   "papers": 1,
-   "x": -0.9131,
-   "y": -0.5054
-  },
-  {
-   "id": "Mike Conway",
-   "papers": 1,
-   "x": 0.9207,
-   "y": 0.406
+   "x": -0.157,
+   "y": -0.0354
   },
   {
    "id": "Seid Muhie Yimam",
    "papers": 3,
-   "x": -0.1597,
-   "y": 0.5264
+   "x": -0.4619,
+   "y": -0.319
+  },
+  {
+   "id": "Pranava Madhyastha",
+   "papers": 2,
+   "x": -0.508,
+   "y": 0.4201
+  },
+  {
+   "id": "Debora Nozza",
+   "papers": 1,
+   "x": 0.4414,
+   "y": -0.811
+  },
+  {
+   "id": "Luc Raszewski",
+   "papers": 2,
+   "x": 0.5552,
+   "y": -0.2499
+  },
+  {
+   "id": "Nick Haslam",
+   "papers": 2,
+   "x": 0.5937,
+   "y": 0.0696
+  },
+  {
+   "id": "Olga Jurasz",
+   "papers": 1,
+   "x": -0.3187,
+   "y": -0.9202
+  },
+  {
+   "id": "Andreas Vlachos",
+   "papers": 4,
+   "x": 0.3557,
+   "y": 0.1353
+  },
+  {
+   "id": "Tim Baldwin",
+   "papers": 1,
+   "x": 0.9639,
+   "y": 0.0589
+  },
+  {
+   "id": "Michael Sejr Schlichtkrull",
+   "papers": 2,
+   "x": -0.3175,
+   "y": 0.5119
+  },
+  {
+   "id": "Ángel Pavón Pérez",
+   "papers": 1,
+   "x": 0.0942,
+   "y": -0.9627
+  },
+  {
+   "id": "Shamsuddeen Hassan Muhammad",
+   "papers": 4,
+   "x": -0.3181,
+   "y": -0.2623
   },
   {
    "id": "Ekaterina Vylomova",
    "papers": 1,
-   "x": 0.6316,
-   "y": 0.6778
+   "x": 0.8751,
+   "y": -0.2896
   },
   {
-   "id": "Yi Zhou",
+   "id": "Saif Mohammad",
    "papers": 3,
-   "x": -0.374,
-   "y": 0.3943
+   "x": -0.476,
+   "y": -0.1667
   },
   {
-   "id": "Jemima Kang",
+   "id": "Mike Conway",
    "papers": 1,
-   "x": 0.9513,
-   "y": 0.1691
-  },
-  {
-   "id": "Idris Abdulmumin",
-   "papers": 4,
-   "x": -0.1581,
-   "y": -0.2792
+   "x": 0.6906,
+   "y": 0.5626
   },
   {
    "id": "Zhiwei Liu",
    "papers": 1,
-   "x": 0.6334,
-   "y": -0.5198
+   "x": 0.0724,
+   "y": 0.9536
+  },
+  {
+   "id": "Oumaima Hourrane",
+   "papers": 3,
+   "x": -0.4466,
+   "y": -0.0007
+  },
+  {
+   "id": "Tom Stafford",
+   "papers": 1,
+   "x": 0.7552,
+   "y": -0.5441
+  },
+  {
+   "id": "Sophia Ananiadou",
+   "papers": 1,
+   "x": -0.1425,
+   "y": 0.96
+  },
+  {
+   "id": "Alham Fikri Aji",
+   "papers": 4,
+   "x": -0.2694,
+   "y": 0.0485
+  },
+  {
+   "id": "Kailai Yang",
+   "papers": 1,
+   "x": -0.5327,
+   "y": 0.7813
+  },
+  {
+   "id": "Ibrahim Said Ahmad",
+   "papers": 4,
+   "x": -0.3277,
+   "y": -0.0904
+  },
+  {
+   "id": "Jemima Kang",
+   "papers": 1,
+   "x": 0.8982,
+   "y": 0.2536
+  },
+  {
+   "id": "Meriem Beloucif",
+   "papers": 5,
+   "x": -0.0465,
+   "y": -0.1506
+  },
+  {
+   "id": "Qianqian Xie",
+   "papers": 1,
+   "x": 0.2519,
+   "y": 0.851
+  },
+  {
+   "id": "Idris Abdulmumin",
+   "papers": 4,
+   "x": -0.2128,
+   "y": -0.1944
+  },
+  {
+   "id": "Miriam Fernández",
+   "papers": 1,
+   "x": 0.291,
+   "y": -0.9456
+  },
+  {
+   "id": "Eduard Hovy",
+   "papers": 4,
+   "x": 0.0309,
+   "y": 0.4317
+  },
+  {
+   "id": "Chris Leckie",
+   "papers": 1,
+   "x": -0.9686,
+   "y": 0.2397
+  },
+  {
+   "id": "Naomi Baes",
+   "papers": 3,
+   "x": 0.2269,
+   "y": -0.2364
+  },
+  {
+   "id": "Nirmal Surange",
+   "papers": 4,
+   "x": -0.1732,
+   "y": -0.3554
+  },
+  {
+   "id": "Zeerak Talat",
+   "papers": 2,
+   "x": -0.1013,
+   "y": 0.5901
+  },
+  {
+   "id": "Lea Frermann",
+   "papers": 1,
+   "x": 0.8731,
+   "y": 0.4712
+  },
+  {
+   "id": "Arij Riabi",
+   "papers": 1,
+   "x": -0.3709,
+   "y": 0.8572
+  },
+  {
+   "id": "Gisela Vallejo",
+   "papers": 1,
+   "x": 0.5951,
+   "y": 0.736
   },
   {
    "id": "Nedjma Ousidhoum",
    "papers": 5,
-   "x": -0.0994,
-   "y": 0.2729
+   "x": -0.0548,
+   "y": -0.2678
+  },
+  {
+   "id": "Manish Shrivastava",
+   "papers": 3,
+   "x": -0.3051,
+   "y": -0.4268
   },
   {
    "id": "Angela Yifei Yuan",
    "papers": 1,
-   "x": 0.1627,
-   "y": 0.9978
+   "x": -1.0,
+   "y": -0.152
+  },
+  {
+   "id": "Tracie Farrell",
+   "papers": 1,
+   "x": -0.1066,
+   "y": -0.9893
+  },
+  {
+   "id": "Yi Zhou",
+   "papers": 3,
+   "x": 0.0086,
+   "y": -0.4231
   }
  ],
  "edges": [
@@ -449,223 +449,673 @@
    2
   ],
   [
+   "Vladimir Araujo",
+   "Nedjma Ousidhoum",
+   5
+  ],
+  [
+   "Vladimir Araujo",
+   "Meriem Beloucif",
+   5
+  ],
+  [
+   "Vladimir Araujo",
+   "Yi Zhou",
+   3
+  ],
+  [
+   "Vladimir Araujo",
+   "Naomi Baes",
+   2
+  ],
+  [
+   "Vladimir Araujo",
+   "Shamsuddeen Hassan Muhammad",
+   4
+  ],
+  [
+   "Vladimir Araujo",
+   "Idris Abdulmumin",
+   4
+  ],
+  [
+   "Vladimir Araujo",
+   "Nirmal Surange",
+   4
+  ],
+  [
+   "Vladimir Araujo",
+   "Ibrahim Said Ahmad",
+   4
+  ],
+  [
+   "Vladimir Araujo",
+   "Alham Fikri Aji",
+   4
+  ],
+  [
+   "Vladimir Araujo",
+   "Oumaima Hourrane",
+   3
+  ],
+  [
+   "Vladimir Araujo",
+   "Manish Shrivastava",
+   3
+  ],
+  [
+   "Vladimir Araujo",
+   "Saif Mohammad",
+   3
+  ],
+  [
+   "Vladimir Araujo",
+   "Seid Muhie Yimam",
+   3
+  ],
+  [
+   "Seid Muhie Yimam",
+   "Shamsuddeen Hassan Muhammad",
+   3
+  ],
+  [
+   "Seid Muhie Yimam",
+   "Nedjma Ousidhoum",
+   3
+  ],
+  [
+   "Seid Muhie Yimam",
+   "Idris Abdulmumin",
+   3
+  ],
+  [
+   "Seid Muhie Yimam",
+   "Meriem Beloucif",
+   3
+  ],
+  [
+   "Seid Muhie Yimam",
+   "Ibrahim Said Ahmad",
+   3
+  ],
+  [
+   "Seid Muhie Yimam",
+   "Nirmal Surange",
+   3
+  ],
+  [
+   "Seid Muhie Yimam",
+   "Alham Fikri Aji",
+   3
+  ],
+  [
+   "Seid Muhie Yimam",
+   "Yi Zhou",
+   1
+  ],
+  [
+   "Seid Muhie Yimam",
+   "Saif Mohammad",
+   2
+  ],
+  [
+   "Seid Muhie Yimam",
+   "Oumaima Hourrane",
+   2
+  ],
+  [
+   "Seid Muhie Yimam",
+   "Manish Shrivastava",
+   2
+  ],
+  [
+   "Pranava Madhyastha",
+   "Arij Riabi",
+   1
+  ],
+  [
+   "Pranava Madhyastha",
+   "Zeerak Talat",
+   2
+  ],
+  [
+   "Pranava Madhyastha",
+   "Michael Sejr Schlichtkrull",
+   2
+  ],
+  [
+   "Pranava Madhyastha",
+   "Eduard Hovy",
+   1
+  ],
+  [
+   "Debora Nozza",
+   "Ángel Pavón Pérez",
+   1
+  ],
+  [
+   "Debora Nozza",
+   "Tracie Farrell",
+   1
+  ],
+  [
+   "Debora Nozza",
+   "Olga Jurasz",
+   1
+  ],
+  [
+   "Debora Nozza",
+   "Miriam Fernández",
+   1
+  ],
+  [
+   "Luc Raszewski",
+   "Naomi Baes",
+   1
+  ],
+  [
+   "Luc Raszewski",
+   "Ekaterina Vylomova",
+   1
+  ],
+  [
+   "Luc Raszewski",
+   "Nick Haslam",
+   1
+  ],
+  [
+   "Nick Haslam",
+   "Naomi Baes",
+   1
+  ],
+  [
+   "Nick Haslam",
+   "Ekaterina Vylomova",
+   1
+  ],
+  [
+   "Nick Haslam",
+   "Jemima Kang",
+   1
+  ],
+  [
+   "Nick Haslam",
+   "Mike Conway",
+   1
+  ],
+  [
+   "Olga Jurasz",
+   "Ángel Pavón Pérez",
+   1
+  ],
+  [
+   "Olga Jurasz",
+   "Tracie Farrell",
+   1
+  ],
+  [
+   "Olga Jurasz",
+   "Miriam Fernández",
+   1
+  ],
+  [
+   "Andreas Vlachos",
+   "Tom Stafford",
+   1
+  ],
+  [
+   "Tim Baldwin",
+   "Gisela Vallejo",
+   1
+  ],
+  [
+   "Tim Baldwin",
+   "Lea Frermann",
+   1
+  ],
+  [
+   "Michael Sejr Schlichtkrull",
+   "Arij Riabi",
+   1
+  ],
+  [
+   "Michael Sejr Schlichtkrull",
+   "Zeerak Talat",
+   2
+  ],
+  [
+   "Michael Sejr Schlichtkrull",
+   "Eduard Hovy",
+   1
+  ],
+  [
+   "Ángel Pavón Pérez",
+   "Tracie Farrell",
+   1
+  ],
+  [
+   "Ángel Pavón Pérez",
+   "Miriam Fernández",
+   1
+  ],
+  [
+   "Shamsuddeen Hassan Muhammad",
+   "Nedjma Ousidhoum",
+   4
+  ],
+  [
+   "Shamsuddeen Hassan Muhammad",
+   "Idris Abdulmumin",
+   4
+  ],
+  [
+   "Shamsuddeen Hassan Muhammad",
+   "Meriem Beloucif",
+   4
+  ],
+  [
+   "Shamsuddeen Hassan Muhammad",
+   "Nirmal Surange",
+   4
+  ],
+  [
+   "Shamsuddeen Hassan Muhammad",
+   "Ibrahim Said Ahmad",
+   4
+  ],
+  [
+   "Shamsuddeen Hassan Muhammad",
+   "Alham Fikri Aji",
+   4
+  ],
+  [
+   "Shamsuddeen Hassan Muhammad",
+   "Naomi Baes",
+   1
+  ],
+  [
+   "Shamsuddeen Hassan Muhammad",
+   "Oumaima Hourrane",
+   3
+  ],
+  [
+   "Shamsuddeen Hassan Muhammad",
+   "Manish Shrivastava",
+   3
+  ],
+  [
+   "Shamsuddeen Hassan Muhammad",
+   "Yi Zhou",
+   2
+  ],
+  [
+   "Shamsuddeen Hassan Muhammad",
+   "Saif Mohammad",
+   3
+  ],
+  [
+   "Ekaterina Vylomova",
+   "Naomi Baes",
+   1
+  ],
+  [
+   "Saif Mohammad",
+   "Nedjma Ousidhoum",
+   3
+  ],
+  [
+   "Saif Mohammad",
+   "Idris Abdulmumin",
+   3
+  ],
+  [
+   "Saif Mohammad",
+   "Meriem Beloucif",
+   3
+  ],
+  [
+   "Saif Mohammad",
+   "Nirmal Surange",
+   3
+  ],
+  [
+   "Saif Mohammad",
+   "Ibrahim Said Ahmad",
+   3
+  ],
+  [
+   "Saif Mohammad",
+   "Alham Fikri Aji",
+   3
+  ],
+  [
+   "Saif Mohammad",
+   "Naomi Baes",
+   1
+  ],
+  [
+   "Saif Mohammad",
+   "Oumaima Hourrane",
+   2
+  ],
+  [
+   "Saif Mohammad",
+   "Manish Shrivastava",
+   2
+  ],
+  [
+   "Saif Mohammad",
+   "Yi Zhou",
+   2
+  ],
+  [
+   "Mike Conway",
+   "Jemima Kang",
+   1
+  ],
+  [
+   "Zhiwei Liu",
+   "Kailai Yang",
+   1
+  ],
+  [
+   "Zhiwei Liu",
+   "Qianqian Xie",
+   1
+  ],
+  [
+   "Zhiwei Liu",
+   "Sophia Ananiadou",
+   1
+  ],
+  [
+   "Zhiwei Liu",
+   "Eduard Hovy",
+   1
+  ],
+  [
+   "Oumaima Hourrane",
+   "Nedjma Ousidhoum",
+   3
+  ],
+  [
+   "Oumaima Hourrane",
+   "Idris Abdulmumin",
+   3
+  ],
+  [
+   "Oumaima Hourrane",
+   "Meriem Beloucif",
+   3
+  ],
+  [
+   "Oumaima Hourrane",
+   "Nirmal Surange",
+   3
+  ],
+  [
+   "Oumaima Hourrane",
+   "Ibrahim Said Ahmad",
+   3
+  ],
+  [
+   "Oumaima Hourrane",
+   "Alham Fikri Aji",
+   3
+  ],
+  [
+   "Oumaima Hourrane",
+   "Naomi Baes",
+   1
+  ],
+  [
+   "Oumaima Hourrane",
+   "Manish Shrivastava",
+   3
+  ],
+  [
+   "Oumaima Hourrane",
+   "Yi Zhou",
+   1
+  ],
+  [
+   "Sophia Ananiadou",
+   "Kailai Yang",
+   1
+  ],
+  [
+   "Sophia Ananiadou",
+   "Qianqian Xie",
+   1
+  ],
+  [
+   "Sophia Ananiadou",
+   "Eduard Hovy",
+   1
+  ],
+  [
+   "Alham Fikri Aji",
+   "Nedjma Ousidhoum",
+   4
+  ],
+  [
+   "Alham Fikri Aji",
+   "Idris Abdulmumin",
+   4
+  ],
+  [
+   "Alham Fikri Aji",
+   "Meriem Beloucif",
+   4
+  ],
+  [
+   "Alham Fikri Aji",
+   "Nirmal Surange",
+   4
+  ],
+  [
+   "Alham Fikri Aji",
+   "Ibrahim Said Ahmad",
+   4
+  ],
+  [
+   "Alham Fikri Aji",
+   "Naomi Baes",
+   1
+  ],
+  [
+   "Alham Fikri Aji",
+   "Manish Shrivastava",
+   3
+  ],
+  [
+   "Alham Fikri Aji",
+   "Yi Zhou",
+   2
+  ],
+  [
+   "Kailai Yang",
+   "Qianqian Xie",
+   1
+  ],
+  [
+   "Kailai Yang",
+   "Eduard Hovy",
+   1
+  ],
+  [
+   "Ibrahim Said Ahmad",
+   "Nedjma Ousidhoum",
+   4
+  ],
+  [
+   "Ibrahim Said Ahmad",
+   "Idris Abdulmumin",
+   4
+  ],
+  [
+   "Ibrahim Said Ahmad",
+   "Meriem Beloucif",
+   4
+  ],
+  [
+   "Ibrahim Said Ahmad",
+   "Nirmal Surange",
+   4
+  ],
+  [
+   "Ibrahim Said Ahmad",
+   "Naomi Baes",
+   1
+  ],
+  [
+   "Ibrahim Said Ahmad",
+   "Manish Shrivastava",
+   3
+  ],
+  [
+   "Ibrahim Said Ahmad",
+   "Yi Zhou",
+   2
+  ],
+  [
+   "Meriem Beloucif",
+   "Nedjma Ousidhoum",
+   5
+  ],
+  [
+   "Meriem Beloucif",
+   "Yi Zhou",
+   3
+  ],
+  [
+   "Meriem Beloucif",
+   "Naomi Baes",
+   2
+  ],
+  [
+   "Meriem Beloucif",
+   "Idris Abdulmumin",
+   4
+  ],
+  [
+   "Meriem Beloucif",
+   "Nirmal Surange",
+   4
+  ],
+  [
+   "Meriem Beloucif",
+   "Manish Shrivastava",
+   3
+  ],
+  [
+   "Qianqian Xie",
+   "Eduard Hovy",
+   1
+  ],
+  [
+   "Idris Abdulmumin",
+   "Nedjma Ousidhoum",
+   4
+  ],
+  [
+   "Idris Abdulmumin",
+   "Nirmal Surange",
+   4
+  ],
+  [
+   "Idris Abdulmumin",
+   "Naomi Baes",
+   1
+  ],
+  [
+   "Idris Abdulmumin",
+   "Manish Shrivastava",
+   3
+  ],
+  [
+   "Idris Abdulmumin",
+   "Yi Zhou",
+   2
+  ],
+  [
+   "Miriam Fernández",
+   "Tracie Farrell",
+   1
+  ],
+  [
+   "Eduard Hovy",
+   "Arij Riabi",
+   1
+  ],
+  [
+   "Eduard Hovy",
+   "Zeerak Talat",
+   1
+  ],
+  [
    "Chris Leckie",
    "Angela Yifei Yuan",
    1
   ],
   [
-   "Gisela Vallejo",
-   "Tim Baldwin",
+   "Naomi Baes",
+   "Nedjma Ousidhoum",
+   2
+  ],
+  [
+   "Naomi Baes",
+   "Yi Zhou",
+   2
+  ],
+  [
+   "Naomi Baes",
+   "Nirmal Surange",
    1
   ],
   [
-   "Gisela Vallejo",
+   "Naomi Baes",
+   "Manish Shrivastava",
+   1
+  ],
+  [
+   "Nirmal Surange",
+   "Nedjma Ousidhoum",
+   4
+  ],
+  [
+   "Nirmal Surange",
+   "Manish Shrivastava",
+   3
+  ],
+  [
+   "Nirmal Surange",
+   "Yi Zhou",
+   2
+  ],
+  [
+   "Zeerak Talat",
+   "Arij Riabi",
+   1
+  ],
+  [
    "Lea Frermann",
+   "Gisela Vallejo",
    1
   ],
   [
-   "Debora Nozza",
-   "Ángel Pavón Pérez",
-   1
+   "Nedjma Ousidhoum",
+   "Yi Zhou",
+   3
   ],
   [
-   "Debora Nozza",
-   "Tracie Farrell",
-   1
+   "Nedjma Ousidhoum",
+   "Manish Shrivastava",
+   3
   ],
   [
-   "Debora Nozza",
-   "Olga Jurasz",
-   1
-  ],
-  [
-   "Debora Nozza",
-   "Miriam Fernández",
-   1
-  ],
-  [
-   "Eduard Hovy",
-   "Zhiwei Liu",
-   1
-  ],
-  [
-   "Eduard Hovy",
-   "Kailai Yang",
-   1
-  ],
-  [
-   "Eduard Hovy",
-   "Qianqian Xie",
-   1
-  ],
-  [
-   "Eduard Hovy",
-   "Sophia Ananiadou",
-   1
-  ],
-  [
-   "Eduard Hovy",
-   "Arij Riabi",
-   1
-  ],
-  [
-   "Eduard Hovy",
-   "Zeerak Talat",
-   1
-  ],
-  [
-   "Eduard Hovy",
-   "Michael Sejr Schlichtkrull",
-   1
-  ],
-  [
-   "Eduard Hovy",
-   "Pranava Madhyastha",
-   1
-  ],
-  [
-   "Zeerak Talat",
-   "Arij Riabi",
-   1
-  ],
-  [
-   "Zeerak Talat",
-   "Michael Sejr Schlichtkrull",
-   2
-  ],
-  [
-   "Zeerak Talat",
-   "Pranava Madhyastha",
-   2
-  ],
-  [
-   "Michael Sejr Schlichtkrull",
-   "Arij Riabi",
-   1
-  ],
-  [
-   "Michael Sejr Schlichtkrull",
-   "Pranava Madhyastha",
-   2
-  ],
-  [
-   "Qianqian Xie",
-   "Zhiwei Liu",
-   1
-  ],
-  [
-   "Qianqian Xie",
-   "Kailai Yang",
-   1
-  ],
-  [
-   "Qianqian Xie",
-   "Sophia Ananiadou",
-   1
-  ],
-  [
-   "Tom Stafford",
-   "Andreas Vlachos",
-   1
-  ],
-  [
-   "Tracie Farrell",
-   "Ángel Pavón Pérez",
-   1
-  ],
-  [
-   "Tracie Farrell",
-   "Olga Jurasz",
-   1
-  ],
-  [
-   "Tracie Farrell",
-   "Miriam Fernández",
-   1
-  ],
-  [
-   "Miriam Fernández",
-   "Ángel Pavón Pérez",
-   1
-  ],
-  [
-   "Miriam Fernández",
-   "Olga Jurasz",
-   1
-  ],
-  [
-   "Pranava Madhyastha",
-   "Arij Riabi",
-   1
-  ],
-  [
-   "Tim Baldwin",
-   "Lea Frermann",
-   1
-  ],
-  [
-   "Kailai Yang",
-   "Zhiwei Liu",
-   1
-  ],
-  [
-   "Kailai Yang",
-   "Sophia Ananiadou",
-   1
-  ],
-  [
-   "Naomi Baes",
-   "Luc Raszewski",
-   1
-  ],
-  [
-   "Naomi Baes",
-   "Ekaterina Vylomova",
-   1
-  ],
-  [
-   "Naomi Baes",
-   "Nick Haslam",
-   1
-  ],
-  [
-   "Olga Jurasz",
-   "Ángel Pavón Pérez",
-   1
-  ],
-  [
-   "Nick Haslam",
-   "Luc Raszewski",
-   1
-  ],
-  [
-   "Nick Haslam",
-   "Ekaterina Vylomova",
-   1
-  ],
-  [
-   "Nick Haslam",
-   "Jemima Kang",
-   1
-  ],
-  [
-   "Nick Haslam",
-   "Mike Conway",
-   1
-  ],
-  [
-   "Sophia Ananiadou",
-   "Zhiwei Liu",
-   1
-  ],
-  [
-   "Luc Raszewski",
-   "Ekaterina Vylomova",
-   1
-  ],
-  [
-   "Mike Conway",
-   "Jemima Kang",
+   "Manish Shrivastava",
+   "Yi Zhou",
    1
   ]
  ],

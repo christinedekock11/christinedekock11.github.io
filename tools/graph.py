@@ -22,13 +22,18 @@ for p in papers:
     auth=[a for a in p["authors"] if a in kept]
     for a in auth:
         G.add_edge(ME, a, weight=G.get_edge_data(ME,a,{}).get("weight",0)+1)
-    if not big:
-        for i,x in enumerate(auth):
-            for y in auth[i+1:]:
-                G.add_edge(x, y, weight=G.get_edge_data(x,y,{}).get("weight",0)+1)
+    for i,x in enumerate(auth):
+        for y in auth[i+1:]:
+            G.add_edge(x, y, weight=G.get_edge_data(x,y,{}).get("weight",0)+1)
+
+# Edges are drawn at their true co-authorship count, but a 48-author paper is a
+# clique whose pull would collapse that whole group onto one point. For the
+# layout only, damp author-to-author ties so the cluster stays legible.
+for u, v, d in G.edges(data=True):
+    d["lw"] = d["weight"] if ME in (u, v) else d["weight"] * 0.18
 
 random.seed(11)
-pos = nx.spring_layout(G, weight="weight", k=1.05, iterations=1500, seed=11)
+pos = nx.spring_layout(G, weight="lw", k=1.15, iterations=1800, seed=11)
 cx, cy = pos[ME]
 pos = {n:(x-cx, y-cy) for n,(x,y) in pos.items()}
 m = max(max(abs(x),abs(y)) for x,y in pos.values())
