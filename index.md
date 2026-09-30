@@ -11,11 +11,9 @@ cover-img: "/assets/img/IMG_5777.jpg"
 
 <center> I like languages, computational social science, and machine learning. </center> 
 
-<center> I am not currently accepting new PhD students. </center> 
+***
 
-<center> Feel free to check out <a href="christine_cv.pdf">my CV</a> and my <a href="#papers">publications</a> below, or <a href="mailto:christinedekock11@gmail.com">get in touch</a>! </center> 
-
-# Papers: 
+# Recent publications
 - Yuan, A. Y., De Kock, C., & Leckie, C. (2026). [Leveraging speech acts for low-data and cross-domain conversation derailment forecasting](https://arxiv.org/abs/2608.25359). Preprint.
 
 - Baes, N., Raszewski, L., Vylomova, E., Haslam, N., & De Kock, C. (2026). [A multidimensional computational analysis of dehumanization in incel discourse](https://ojs.aaai.org/index.php/ICWSM/article/view/42632). ICWSM 2026.
